@@ -1,6 +1,5 @@
-<a href="https://github.com/TencentCloudBase/cloudbase-templates"><img src="https://main.qcloudimg.com/raw/230c115bee4300384fa557710daa2928.jpg"></a>
-
-# 云开发 VuePress 网站应用示例
+<a href="https://github.com/TencentCloudBase/cloudbase-templates"><img src="./.vuepress/public/bg.jpg"></a>
+# SHUO & DONG 'S LOVESTORY
 
 这个目录是基于云开发的一个 [VuePress](https://vuepress.vuejs.org/) 网站应用示例，包含 VuePress 静态网站部署，可以基于 **[CloudBase Framework](https://github.com/TencentCloudBase/cloudbase-framework)** 框架将项目一键部署到云开发环境
 
